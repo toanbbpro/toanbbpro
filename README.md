@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,24&height=140&section=header&t=1" width="100%" />
+</div>
+
 # 💫 About Me:
 - 🔭 I’m currently working on mobile & desktop applications
 - 👯 I’m looking to collaborate on mobile app
@@ -30,22 +34,26 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=toanbbpro&theme=neon&hide_border=false&include_all_commits=false&count_private=false" /><br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=toanbbpro&theme=neon&hide_border=false" /><br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=toanbbpro&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api?username=toanbbpro&theme=neon&bg_color=00000000&hide_border=true&include_all_commits=false&count_private=false" /><br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=toanbbpro&theme=neon&background=00000000&hide_border=true" /><br/><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=toanbbpro&theme=neon&bg_color=00000000&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=toanbbpro&theme=vision-friendly-dark&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=toanbbpro&theme=vision-friendly-dark&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=toanbbpro&icon=0&color=0" />
+    <img src="https://komarev.com/ghpvc/?username=toanbbpro&icon=0&color=00e8c6&style=flat-square" />
   </a>
-  <img src="https://img.shields.io/badge/dynamic/json?color=yellow&label=Total%20Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Ftoanbbpro&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=00e8c6&label=Total%20Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Ftoanbbpro&logo=github&style=flat-square" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,1&height=100&section=footer" width="100%" />
 </div>
