@@ -11,6 +11,27 @@
 - ⚡ Fun fact: I play CS2
 
 ---
+# 🚀 Featured Projects:
+
+<div align="center">
+  <a href="https://github.com/toanbbpro/vie_lich">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=toanbbpro&repo=vie_lich&theme=neon&bg_color=00000000&hide_border=true" />
+  </a>
+  <a href="https://github.com/toanbbpro/steam-router-proxy">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=toanbbpro&repo=steam-router-proxy&theme=neon&bg_color=00000000&hide_border=true" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/toanbbpro/CustomProxy">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=toanbbpro&repo=CustomProxy&theme=neon&bg_color=00000000&hide_border=true" />
+  </a>
+  <a href="https://github.com/toanbbpro/GOOT">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=toanbbpro&repo=GOOT&theme=neon&bg_color=00000000&hide_border=true" />
+  </a>
+</div>
+
+---
 
 # 💻 Tech Stack:
 
