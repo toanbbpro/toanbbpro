@@ -6,9 +6,8 @@
 - 🔭 I’m currently working on mobile & desktop applications
 - 👯 I’m looking to collaborate on mobile app
 - 🤝 I’m looking for help with iOS and desktop app
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter, Android
 - 💬 Ask me about JS
-- ⚡ Fun fact: I play CS2
 
 ---
 # 🚀 Featured Projects:
