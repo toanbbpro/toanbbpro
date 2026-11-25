@@ -2,14 +2,22 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,24&height=140&section=header&t=1" width="100%" />
 </div>
 
-# 💫 About Me:
-- 🔭 I’m currently working on mobile & desktop applications
-- 👯 I’m looking to collaborate on mobile app
-- 🤝 I’m looking for help with iOS and desktop app
-- 🌱 I’m currently learning Flutter, Android
-- 💬 Ask me about JS
+<div>
+  <a href="https://gitranks.com/profile/toanbbpro">
+    <img align="right" src="https://gitranks.com/badge/user/toanbbpro/profile-card.svg?logo=0" alt="toanbbpro on GitRanks: profile" />
+  </a>
 
----
+  <h3>💫 About Me:</h3>
+  <ul>
+    <li>🔭 I’m currently working on mobile &amp; desktop applications</li>
+    <li>👯 I’m looking to collaborate on mobile app</li>
+    <li>🤝 I’m looking for help with iOS and desktop app</li>
+    <li>🌱 I’m currently learning Flutter, Android</li>
+    <li>💬 Ask me about JS</li>
+  </ul>
+</div>
+<br clear="both"/>
+
 # 🚀 Featured Projects:
 
 <div align="center">
